@@ -1,6 +1,6 @@
 import { Container, Typography } from "@mui/material";
 import CopyHandler from "./components/CopyHandler";
-import Form from "./components/Form";//import
+import Form from "./components/Form";
 
 function App() {
   return (
